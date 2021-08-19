@@ -1,0 +1,32 @@
+{
+    "name": "night-pourple",
+    "displayName": "Night-Pourple",
+    "description": "This is a basic but elegant and functional theme for VsCode based on dark and purple colors",
+    "version": "1.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Night Pourple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Night Pourple-color-theme.json"
+            }
+        ]
+    },
+    "icon": "img/icon.png",
+    "author": {
+        "name": "Miguel Angel Sánchez Contreras"
+        "email": "msanchez-4@outlook.com",
+        "url": "https://github.com/S4nchezM4"
+    },
+    "repository": {
+        "url": "https://github.com/S4nchezM4/night-pourple"
+        "type": "git"
+    },
+    "publisher": "theme-night-porple-dark"
+}

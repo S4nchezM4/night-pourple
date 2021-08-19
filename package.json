@@ -20,12 +20,12 @@
     },
     "icon": "img/icon.png",
     "author": {
-        "name": "Miguel Angel Sánchez Contreras"
+        "name": "Miguel Angel Sánchez Contreras",
         "email": "msanchez-4@outlook.com",
         "url": "https://github.com/S4nchezM4"
     },
     "repository": {
-        "url": "https://github.com/S4nchezM4/night-pourple"
+        "url": "https://github.com/S4nchezM4/night-pourple",
         "type": "git"
     },
     "publisher": "theme-night-porple-dark"

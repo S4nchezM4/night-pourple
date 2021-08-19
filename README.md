@@ -1,13 +1,10 @@
-# README
-## This is the README for your extension "night-pourple"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+Install
+Go to VS Marketplace.
+Click on the "Install" button.
+Then select a theme. Currently the following themes are available:
+GitHub Dark
+Override this theme
+To quickly test something, you can also override this (or any other) theme in your personal config file. Please follow the guide in the color theme documentation.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Prerequisite: Please follow this guide to install and login to vsce. Ask an existing maintainer how to get the "Personal Access Token".
+Rate us and enjoy this theme.
